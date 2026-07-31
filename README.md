@@ -1,4 +1,4 @@
-# ExpertListing Dashboard Assessment
+# ExpertListing Dashboard
 
 A fully responsive frontend dashboard built for the ExpertListing hiring assessment based on the provided Figma design.
 
