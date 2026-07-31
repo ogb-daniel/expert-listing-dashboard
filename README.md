@@ -57,23 +57,28 @@ recruit-assessment/
 ### Installation & Running Locally
 
 1. **Clone the repository**:
+
    ```bash
    git clone <repository-url>
    cd recruit-assessment
    ```
 
 2. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
 3. **Start the development server**:
+
    ```bash
    npm run dev
    ```
+
    Open `http://localhost:5173` (or `http://127.0.0.1:5173`) in your browser.
 
 4. **Build for production**:
+
    ```bash
    npm run build
    ```
@@ -111,5 +116,3 @@ recruit-assessment/
    - Per requirements, no backend API is connected. All statistics, revenue figures, user totals, and sales chart data are served via a structured data file (`src/data/dashboardData.ts`).
 2. **Icons & Assets**:
    - Custom SVG icons and building imagery provided in the assessment package were converted and embedded directly into component assets.
-3. **Security Standards**:
-   - Strict input handling, framework-native escaping, and local-only dev server bounds were maintained.
