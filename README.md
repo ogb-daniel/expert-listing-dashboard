@@ -8,11 +8,11 @@ A fully responsive frontend dashboard built for the ExpertListing hiring assessm
 
 ## Technical Stack & Architecture
 
-- **React 19** + **TypeScript 5.8** — Modern, type-safe component-driven architecture.
-- **Tailwind CSS v4** — Utility-first styling configured with `@theme` design tokens and custom `@font-face` definitions.
-- **Recharts** — Lightweight, responsive SVG bar chart for the Sales Overview section.
-- **Vite 6** — Lightning-fast development server and optimized production bundler.
-- **Open Runde Font Family** — Custom local font integrated via `.woff` font files for typography consistency with the Figma design.
+- **React 19** + **TypeScript 5.8** - Modern, type-safe component-driven architecture.
+- **Tailwind CSS v4** - Utility-first styling configured with `@theme` design tokens and custom `@font-face` definitions.
+- **Recharts** - Lightweight, responsive SVG bar chart for the Sales Overview section.
+- **Vite 6** - Lightning-fast development server and optimized production bundler.
+- **Open Runde Font Family** - Custom local font integrated via `.woff` font files for typography consistency with the Figma design.
 
 ---
 
