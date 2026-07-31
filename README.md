@@ -1,6 +1,6 @@
 # ExpertListing Dashboard Assessment
 
-A pixel-accurate, fully responsive frontend dashboard built for the ExpertListing hiring assessment based on the provided Figma design.
+A fully responsive frontend dashboard built for the ExpertListing hiring assessment based on the provided Figma design.
 
 ![ExpertListing Dashboard](src/assets/logo.svg)
 
